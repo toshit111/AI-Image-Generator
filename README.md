@@ -1,8 +1,6 @@
 # AI-Image-Generator
 Web Development Project using API
 
-# AI Image Generator
-
 ## Overview
 
 AI Image Generator is a web application that fetches and displays random images from Unsplash based on user input. Users can enter any text, and the app will display a relevant image using the Unsplash API.
@@ -15,7 +13,7 @@ AI Image Generator is a web application that fetches and displays random images 
 
 ## Demo
 
-![Demo Screenshot](![Screenshot 2024-06-20 095909](https://github.com/toshit111/AI-Image-Generator/assets/142931155/5ca11fd0-486a-4882-9cdf-d9b3bed36b10))
+![Demo Screenshot]![Screenshot 2024-06-20 095909](https://github.com/toshit111/AI-Image-Generator/assets/142931155/5ca11fd0-486a-4882-9cdf-d9b3bed36b10)
 
 ## Getting Started
 
